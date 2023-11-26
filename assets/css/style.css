@@ -9343,7 +9343,7 @@ hr + .nk-block {
   display: block;
 }
 .feature.disabled {
-  opacity: .5;
+  opacity: 0.5;
 }
 .feature-download {
   margin-bottom: 0;
@@ -15198,7 +15198,7 @@ hr + .nk-block {
     min-height: 98px;
   }
   .logo img {
-    height: 40px;
+    height: 65px;
   }
   .logo-md img {
     height: 50px;
